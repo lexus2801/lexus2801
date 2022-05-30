@@ -1,5 +1,5 @@
-- Hi, I’m @lexus2801
-- I’m interested in watching films
+- Hi, My name is Nguyen Thanh Hien 
+- I’m a Third Student at University
 - I’m currently learning IT
 - How to reach me : alvinnguyen2701@gmail.com
 
