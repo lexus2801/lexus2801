@@ -1,6 +1,5 @@
 - Hi, My name is Nguyen Thanh Hien 
 - I’m a Fourth Student at University
-- I’m currently learning IT
 - How to reach me : hien24681012@gmail.com
 
 <!---
